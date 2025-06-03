@@ -1,7 +1,7 @@
 # Data_Analysis_Project
 Real estate data analysis project focused on improving the rating system for properties. It includes a cleaned dataset, analysis and insights
 
-#3 Repo Structure
+# Repo Structure
 ├── data/              # Raw and clean dataset
 ├── notebooks/         # Jupyter notebook
 ├── README.md          # Project documentation
