@@ -6,7 +6,7 @@ Real estate data analysis project focused on improving the rating system for pro
 ├── notebooks/         # Jupyter notebook
 ├── README.md          # Project documentation
 
-# ## Installation
+# Installation
 ### Clone the repository:
 ```sh
 git clone https://github.com/joyangelai/Data_Analysis_Project.git
